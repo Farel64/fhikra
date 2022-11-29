@@ -117,20 +117,20 @@ global.ultahowner = 'April 26 2007'
 /*============== LOGO ==============*/
 global.thumb = 'https://i.pinimg.com/564x/7f/8f/13/7f8f1383ba85abb18b489b92e488d981.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/564x/64/d2/56/64d256945c47f111146aac915fc82186.jpg'
-global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
-global.giflogo2 = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
-global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
+global.giflogo = 'https://i.pinimg.com/564x/27/79/b5/2779b5cac08d408077f2b42cd1acb664.jpg'
+global.giflogo2 = 'https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
+global.thumbs = ['https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.botintro = 'Hallo, Kenalin saya Rel BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'Farel'
+global.umurowner = '15'
+global.asalowner = 'Sulawesi tengah'
+global.nomorowner = 'wa.me/6282290452317'
+global.pacarowner = 'Kamu🤓'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -143,7 +143,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
