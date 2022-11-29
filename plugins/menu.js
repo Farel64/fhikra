@@ -172,7 +172,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
+    let url = 'https://telegra.ph/file/ea9706a8ef6d102bb819a.jpg'
     let flaa = pickRandom(global.flaaaaa)
     const ultah = new Date(`${ultahowner} 00:00:01`)
     const sekarat = new Date().getTime() 
@@ -185,10 +185,10 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `${wish()} ${name}
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
-      [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+      [`۪۪OWNER`, `${usedPrefix}owner`]
+    ], m, { 'document':{'url':'https://www.facebook.com/Farel.Arel15'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'Farel Arel',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
