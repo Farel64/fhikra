@@ -16,13 +16,13 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     surface : 404,
     message: `Nih My Mastah :3`, 
     orderTitle: ``,
-    thumbnail: await conn.resize(await (await fetch('https://i.ibb.co/jfZVKmC/babi2.jpg')).buffer(), 300, 200) //Gambarnye
+    thumbnail: await conn.resize(await (await fetch('https://telegra.ph/file/ea9706a8ef6d102bb819a.jpg')).buffer(), 300, 200) //Gambarnye
 
     }
     }
     }
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-    let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/24fa902ead26340f3df2c.png")
+    let pp = await conn.profilePictureUrl(who, 'image').catch((_) => "https://telegra.ph/file/ea9706a8ef6d102bb819a.jpg")
 	conn.p[id] = [
 	await conn.sendContact(m.chat, kontak2, ftroli, { contextInfo: { externalAdReply :{ 
      showAdAttribution: true, 
@@ -60,7 +60,7 @@ let cap = `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan di
 
 ${botdate}`,
 'buttons':[
-{'buttonId':'.tqto','buttonText':{'displayText':'Credits'},'type':1}
+{'buttonId':'.menu','buttonText':{'displayText':'menu'},'type':1}
 ],
 'headerType':6}
     await conn.sendMessage(m.chat,buttonMessage, { quoted:m})
