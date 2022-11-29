@@ -19,14 +19,14 @@ const message = {
             templateButtons: [
                 {
                     urlButton: {
-                        displayText: 'Beli Sc? Klik',
-                        url: 'https://wa.me/6288279268363'
+                        displayText: 'Mau sc? klik',
+                        url: 'https://wa.me/6282290452317'
                     }
                 },
                 {
                     urlButton: {
-                        displayText: 'Ke YouTube',
-                        url: 'https://youtu.be/pwLZpdfO8AU',
+                        displayText: 'Facebook',
+                        url: 'https://www.facebook.com/Farel.Arel15',
                     }
                 },
             ]
@@ -34,13 +34,13 @@ const message = {
         conn.sendMessage(m.chat, message)
 conn.reply(m.chat, info, m, {
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/pwLZpdfO8AU',
+                        sourceUrl: 'https://www.facebook.com/Farel.Arel15',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+                        description: `⚘ ᴄʀᴇᴀᴛᴇ Rel Botz ×፝֟͜×`,
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ ᴄʀᴇᴀᴛᴇ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ ᴄʀᴇᴀᴛᴇ by Rel Botz×፝֟͜×`,          previewType: 0,
                         thumbnail: await (await fetch(giflogo2)).buffer(),
-                        mediaUrl: 'https://youtu.be/pwLZpdfO8AU'
+                        mediaUrl: 'https://www.facebook.com/Farel.Arel15'
                         
                       }}
 })
