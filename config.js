@@ -124,7 +124,7 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Rel BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
+global.intro = 'https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Farel'
 global.umurowner = '15'
