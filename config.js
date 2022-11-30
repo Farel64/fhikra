@@ -107,11 +107,11 @@ global.wm2 = 'Farel Arel'
 global.wm3 = 'Arel'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
+global.titlebot = `Rel Botz | ʙʏ ${global.nameown}`
 global.author = 'Rel Botz' 
 global.packname = 'Farel Arel'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'April 26 2007'
+global.ultahowner = 'April 26 2023'
 
 
 /*============== LOGO ==============*/
@@ -123,7 +123,7 @@ global.thumbs = ['https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Rel BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya Rel BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Farel Saya di rilis pada tanggal\n🗓 ️_20/10/2022_'
 global.intro = 'https://telegra.ph/file/ca63e2b686c9df2f4d411.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = 'Farel'
