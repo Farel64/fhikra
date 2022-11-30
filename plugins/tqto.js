@@ -70,7 +70,7 @@ Terimakasih Juga Untuk Kang Banned:
 'mediaType':2,
 'previewType':'pdf',
 'title':`💌 Ultah Owner: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-'body':`⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+'body':`⚘ by Farel`,
 'thumbnail':await(await fetch('https://i.pinimg.com/564x/ce/a2/38/cea23873082a088a6fe846e8a4599989.jpg')).buffer(),
 'sourceUrl':'https://telegra.ph/file/cb7db894bb0d8f8fc34b1.mp4'}},
 'caption':cap,
